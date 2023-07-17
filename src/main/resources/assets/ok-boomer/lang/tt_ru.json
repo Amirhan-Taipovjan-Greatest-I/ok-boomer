@@ -1,0 +1,38 @@
+{
+  "modmenu.summaryTranslation.ok-zoomer": "Көйләнгән уендагы һәм экрандагы масштаблау мөмкинлекләре белән артыклыксыз масштаблау моды",
+  "modmenu.descriptionTranslation.ok-boomer": "Чөнки текә егетләр шартлауларга бик якын карыйлар.\nКөйләнгән уендагы һәм экрандагы масштаблау мөмкинлекләре белән артыклыксыз масштаблау моды",
+  "text.ok-boomer.prefix": [
+    "",
+    { "text": "[", "color": "dark_gray" },
+    { "text": "OK ", "color": "#bb1a34" },
+    { "text": "Boomer", "color": "#fcab40" },
+    { "text": "]", "color": "dark_gray" }
+  ],
+  "key.ok-boomer.boom": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Бумлау"
+  ],
+  "key.ok-boomer.screen_boom": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Экран бум"
+  ],
+  "key.ok-boomer.rotat": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Rotat"
+  ],
+  "text.config.ok-boomer.title": [
+    { "translate": "text.ok-boomer.prefix" },
+    " көйләүләре"
+  ],
+  "text.config.ok-boomer.option.useCinematicCamera": "Бумланганда кинематик камераны куллану",
+  "text.config.ok-boomer.option.enableScreenBooming": "Экраннарда бумлауны рөхсәт итү",
+  "text.config.ok-boomer.option.boomScrollSensitivity": "Бум әйләнү сизгерлеге",
+  "text.config.ok-boomer.option.boomTransition": "Бум күчү",
+  "text.config.ok-boomer.option.defaultBoom": "Гади бум",
+  "text.config.ok-boomer.option.boomTransitionSpeed": "Бум күчү тизлеге",
+  "text.config.ok-boomer.category.boomLimits": "Бум чикләре",
+  "text.config.ok-boomer.option.boomLimits.enableLimits": "Чикләрне кушу",
+  "text.config.ok-boomer.option.boomLimits.allowBoomingOut": "Бумны (кечерәйтүне) рөхсәт итү",
+  "text.config.ok-boomer.option.boomLimits.maxBoom": "Максималь бум",
+  "text.config.ok-boomer.option.boomLimits.maxScreenBoom": "Максималь экран бум"
+}
